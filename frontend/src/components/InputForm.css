@@ -1,0 +1,33 @@
+.form-container {
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.form-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+}
+
+.input-box {
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.submit-btn {
+  margin-top: 20px;
+  padding: 12px;
+  width: 200px;
+  font-size: 16px;
+  background-color: #646cff;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+}
+.submit-btn:hover {
+  background-color: #4a4fe0;
+}

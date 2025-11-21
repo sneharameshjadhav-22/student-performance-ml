@@ -1,0 +1,17 @@
+.result-card {
+  background: #fdfdfd;
+  padding: 20px;
+  margin-top: 25px;
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+}
+
+.result-title {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.recommend-list {
+  margin-top: 10px;
+  padding-left: 20px;
+}
